@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🤖 Discord Bot — discord.js v14
+
+# 🤖 Discord Bot skeyrak  — discord.js v14
 
 Bot Discord complet, modulaire et prêt à déployer.
 
